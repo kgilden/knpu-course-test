@@ -1,0 +1,12 @@
+title: A Simple Course Test
+price: 0
+length: 2:33
+summary: |
+    Welcome to the new repository structure. In this course we teach how to
+    create your own courses!
+chapters:
+    introduction:
+        title:      Intro to new repo structure
+        is_free:    true
+        length:     2:33
+
