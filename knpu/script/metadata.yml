@@ -5,8 +5,8 @@ summary: |
     Welcome to the new repository structure. In this course we teach how to
     create your own courses!
 chapters:
-    introduction:
-        title:      Intro to new repo structure
+    intro:
+        title:      Courses: Intro
         is_free:    true
         length:     2:33
 
