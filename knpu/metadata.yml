@@ -1,6 +1,7 @@
 title: A Simple Course Test
 price: 0
 length: 2:33
+priority: 100
 summary: |
     Welcome to the new repository structure. In this course we teach how to
     create your own courses!
