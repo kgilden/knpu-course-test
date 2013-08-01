@@ -1,0 +1,9 @@
+example:
+    question: |
+        What is the anwser to life, universe and everything?
+    skeletons: { index.php: index.php }
+    worker: php
+    entry_point: index.php
+    context: index.php
+    asserts: ExampleSuite.php
+

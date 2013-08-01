@@ -12,4 +12,6 @@ chapters:
         title:      Courses: Intro
         is_free:    true
         length:     2:33
+        activities:
+            - example
 
